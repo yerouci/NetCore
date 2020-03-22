@@ -1,4 +1,2 @@
 # NetCore
-NetCore API Testing
-Testing Form VSCode
-Testing Form VSCode 1
+NetCore API Testing and Commits from VSCode
